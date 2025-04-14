@@ -48,7 +48,7 @@ const Projects = () => {
           <AnimatedSection animation="fade-up" className="w-full" style={{ transitionDelay: '300ms' }}>
             <ProjectsCard
               title="DATA JOBS MARKET"
-              des="Analysis double of the data science job market, with a focus on the most demanded skills, salary trends and therefore the best professional opportunities for data analysts."
+              des="Analysis of the data science job market, with a focus on the most demanded skills, salary trends and therefore the best professional opportunities for data analysts."
               src={projectThree}
               githubLink="https://github.com/Christ-GUEDEGBE/PYTHON_DATA" // Updated link
               techStack={["Python"]}
