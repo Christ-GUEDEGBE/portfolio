@@ -33,7 +33,7 @@ const EnhancedBanner = () => {
                         />
                     </div>
                     <p className="text-base-plus md:text-lg text-gray-300 font-medium mx-auto mt-2 max-w-prose leading-relaxed text-justify">
-                        Hi, I’m Christ boss, a data analyst with an engineering background and a strong drive for problem-solving. I love technology in general and enjoy building things—but let’s focus on data analysis here. I use various tools to transform complex data into clear insights that support decision-making.
+                        Hi, I’m Christ, a data analyst with an engineering background and a strong drive for problem-solving. I love technology in general and enjoy building things—but let’s focus on data analysis here. I use various tools to transform complex data into clear insights that support decision-making.
                         With a foundation in energy engineering and industrial processes, I bring a structured, analytical approach to data. These days, I’m particularly interested in data automation and lightweight ETL processes, which are typically the domain of data engineers, to ensure smarter, more efficient work.
                         As a self-taught data analyst, I’ve developed my skills through hands-on projects and continuous learning. My goal is to help businesses unlock the full potential of their data while refining my expertise in data analytics and engineering.
                         </p>
